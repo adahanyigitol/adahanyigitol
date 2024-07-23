@@ -36,10 +36,9 @@
 <img height="5cm" width="1000px" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line_color"/>
 </div>
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adahanyigitol&show_icons=true&locale=en&layout=compact" alt="adahanyigitol"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=adahanyigitol&show_icons=true&locale=en" alt="adahanyigitol"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adahanyigitol&" />
 </div>
