@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Computer Guy" height="200">
     </div>
      <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%2338C2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ada+%F0%9F%91%81;Computer+Science+Student;Problem+Solver" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2338C2FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ada+%F0%9F%91%81;Computer+Science+Student;Problem+Solver" width="450px" height="60cm" alt="Headline" />
     </div>
 </div>
 <div align="center">
@@ -30,7 +30,7 @@
     </div>
     <div>
         <div align=left>
-        <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"> About Some Stats
+        <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"> Some Github Stats
     </div>
 <div align="center">
 <img height="5cm" width="1000px" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line_color"/>
