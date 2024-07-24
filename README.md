@@ -39,7 +39,7 @@
 <img height="5cm" width="1000px" src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="line_color"/>
 </div>
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adahanyigitol&show_icons=true&layout=compact" alt="adahanyigitol"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adahanyigitol&show_icons=true&layout=compact"  alt="adahanyigitol"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adahanyigitol&show_icons=true&locale=en" alt="adahanyigitol"/>
 </div>
 <div align="center">
