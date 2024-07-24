@@ -22,7 +22,7 @@
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="15%" height="130cm" style="display:inline;">
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/adahanyigitol/temperature_playlist_analyzer.git">Web Applications</a>.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/adahanyigitol/StokTakipSistemi.git">Web Applications</a>.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://docs.google.com/document/d/1hOXWlK_m0-hD0YcOKCGe6ifDhJKrcXD25efGjP8jc6w/edit?usp=sharing">LINK TO MY RESUME</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Dogs(🐶), Games(💻), Traveling(🌍), and Photography(📷).</li>
